@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba2fa3c-96bb-40e6-aef9-378c1a1361de" name="Changes" comment="lesson3 -scanner">
-      <change afterPath="$PROJECT_DIR$/src/classWork/lesson3/FormaterDAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork/hw13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork/hw14/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6328885f-6ab2-41f9-a5cf-a5c1aac1dffc" />
+        <option name="url" value="https://github.com/IlliaVodovozov/DAN-It-JAVA.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,7 +54,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/DAN-IT/DAN-It-JAVA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.homeWork.hw14.Main">
     <configuration name="FormaterDAN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classWork.lesson3.FormaterDAN" />
       <module name="DAN-IT-JAVA" />
@@ -82,8 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homeWork.hw14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.hw14.Main" />
+      <module name="DAN-IT-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork.hw14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWork.hw14.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FormaterDAN" />
         <item itemvalue="Application.ScannerDAN" />
@@ -106,10 +132,25 @@
       <option name="project" value="LOCAL" />
       <updated>1678211645106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson3 -scanner">
+      <created>1678363060962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678363060962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson3 -scanner">
+      <created>1678363141813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678363141813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW 13" />
     <MESSAGE value="lesson3 -scanner" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson3 -scanner" />
   </component>
