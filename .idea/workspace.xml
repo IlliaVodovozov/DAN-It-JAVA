@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba2fa3c-96bb-40e6-aef9-378c1a1361de" name="Changes" comment="hw - 14">
-      <change afterPath="$PROJECT_DIR$/src/classWork/lesson4/IfElselesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classWork/lesson4/ternarniy.java" afterDir="false" />
+    <list default="true" id="bba2fa3c-96bb-40e6-aef9-378c1a1361de" name="Changes" comment="classworks">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWorks/lesson1/lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWorks/lesson2-2/lesson2-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWorks/lesson2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWorks/lesson2/lesson2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classWorks/lesson2_3/lesson2_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classWork/lesson5/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classWork/lesson5/Fixshmix1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classWork/lesson5/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classWork/lesson5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork/hw15/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +57,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/DAN-IT/DAN-It-JAVA&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/DAN-IT/DAN-It-JAVA"
   }
-}</component>
-  <component name="RunManager" selected="Application.ternarniy">
-    <configuration name="FormaterDAN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classWork.lesson3.FormaterDAN" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.lesson5.Ex1" />
       <module name="DAN-IT-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classWork.lesson3.*" />
+          <option name="PATTERN" value="classWork.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElselesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classWork.lesson4.IfElselesson" />
+    <configuration name="Fixshmix1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.lesson5.Fixshmix1" />
       <module name="DAN-IT-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classWork.lesson4.*" />
+          <option name="PATTERN" value="classWork.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="General" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.lesson5.General" />
+      <module name="DAN-IT-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classWork.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.hw13.Main" />
+      <option name="MAIN_CLASS_NAME" value="homeWork.hw15.Main" />
       <module name="DAN-IT-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.hw13.*" />
+          <option name="PATTERN" value="homeWork.hw15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWork.hw14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.hw14.Main" />
+    <configuration name="classWork.lesson5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.lesson5.Main" />
       <module name="DAN-IT-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.hw14.*" />
+          <option name="PATTERN" value="classWork.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ternarniy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classWork.lesson4.ternarniy" />
+    <configuration name="classWork.lesson5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork.lesson5.Main" />
       <module name="DAN-IT-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classWork.lesson4.*" />
+          <option name="PATTERN" value="classWork.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ternarniy" />
-        <item itemvalue="Application.IfElselesson" />
-        <item itemvalue="Application.homeWork.hw14.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FormaterDAN" />
+        <item itemvalue="Application.General" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.Fixshmix1" />
+        <item itemvalue="Application.classWork.lesson5.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,14 +191,22 @@
       <option name="project" value="LOCAL" />
       <updated>1678374606640</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="classworks">
+      <created>1678391868569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678391868569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW 13" />
     <MESSAGE value="lesson3 -scanner" />
     <MESSAGE value="hw - 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw - 14" />
+    <MESSAGE value="classworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="classworks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -188,6 +219,16 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classWork/lesson5/Ex1.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classWork/lesson5/Ex1.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
