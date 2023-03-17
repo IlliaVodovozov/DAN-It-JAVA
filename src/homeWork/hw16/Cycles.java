@@ -66,7 +66,7 @@ public class Cycles {
                 return;
         }
         System.out.println("Ссылка для скачивания: " + downloadLink);
-        System.out.println("___________");
+        System.out.println("______________");
 
         System.out.println("Введите строку: ");
         String inputString = in.nextLine().toLowerCase();
