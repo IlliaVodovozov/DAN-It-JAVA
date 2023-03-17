@@ -129,24 +129,33 @@ public class Cycles {
         System.out.println("______________");
 
         System.out.print("Введите вместимость склада: ");
-        int capacity = in.nextInt();
-        int availableSpace = capacity;
+        int maxWeight = in.nextInt();
+        int availableSpace = maxWeight;
 
         while (availableSpace > 0) {
-            System.out.printf("Склад может принять %d металла.%n", availableSpace);
-            System.out.print("Введите вес металла, который хотите сдать: ");
-            int weight = in.nextInt();
-            if (weight < 5) {
-                System.out.println("Нельзя сдать меньше 5 металла.");
-            } else if (weight > availableSpace) {
-                System.out.println("На складе недостаточно места для этого количества металла.");
+            System.out.print("Сколько металла вы хотите сдать на склад? ");
+            int metalWeight = in.nextInt();
+            if (metalWeight >= 5) {
+                if (metalWeight <= availableSpace) {
+                    availableSpace -= metalWeight;
+                    System.out.println(metalWeight+" металла принято на склад.\n" +
+                            "Доступное место на складе: " + availableSpace);
+                } else {
+                    System.out.println("Невозможно принять металл, т.к. недостаточно места на складе.");
+                }
             } else {
-                availableSpace -= weight;
-                System.out.printf("Вы сдали %1$d металла. Осталось места на складе: %2$d.%n",
-                        weight, availableSpace);
+                System.out.println("Технические возможности склада не позволяют обработать < 5.");
+            }
+
+            if (availableSpace < 5) {
+                System.out.print("Технические возможности склада не позволяют обработать меньше < 5. \n Введите 0 для завершения программы: ");
+                int userInput = in.nextInt();
+                if (userInput == 0) {
+                    break;
+                }
             }
         }
-        System.out.println("На складе закончилось место.");
+        System.out.println("Склад заполнен. Программа завершена.");
 
     }
 }
