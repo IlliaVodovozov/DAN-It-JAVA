@@ -44,9 +44,9 @@ public class Converter {
             return Integer.parseInt(s);
         } catch (NumberFormatException e) {
             if (s.equalsIgnoreCase("true") || s.equalsIgnoreCase("false")) {
-                System.out.println("Cannot convert boolean to int");
+                System.out.println("Не могу конвертировать boolean в int");
             } else {
-                System.out.println("Cannot convert " + s + " to int");
+                System.out.println("Не могу конвертировать " + s + " в int");
             }
             return 0;
         }
@@ -85,9 +85,9 @@ public class Converter {
             return Double.parseDouble(s);
         } catch (NumberFormatException e) {
             if (s.equalsIgnoreCase("true") || s.equalsIgnoreCase("false")) {
-                System.out.println("Cannot convert boolean to double");
+                System.out.println("Не могу конвертировать boolean в double");
             } else {
-                System.out.println("Cannot convert " + s + " to double");
+                System.out.println("Не могу конвертировать " + s + " в double");
             }
             return 0.0;
         }
